@@ -1,0 +1,586 @@
+*{margin: 0;}
+.header{
+    box-shadow: 0 0.0625rem 0.5rem 0 rgba(0,0,0,.04), 0 0.0625rem 0.3125rem 0 rgba(0,0,0,.04);;
+    width: 100%;
+    height: 131px ;
+}
+.image{
+    margin: 18px;
+    padding-left: 156px;;
+}
+.language{
+    
+    margin-top: -120px;
+    margin-left: 344px;
+}
+.lang{
+    font-size: 14px;
+    line-height: 24px;
+    background-color: transparent;
+    border: none;
+    color: #292929;
+    cursor: pointer;
+
+}
+.sign{
+    margin-left: 456px;
+    position: absolute;
+    margin-top: -16px;
+    font-weight: lighter;
+    font-style: normal;
+}
+.career{
+    margin-left: 592px;
+    position: absolute;
+    margin-top: -15px;
+    font-size: 14px;
+
+}
+.search{
+    margin-left: 913px;
+    position: absolute;
+    margin-top: -16px;
+
+}
+.seerch{
+    margin-left: 894px;
+    position: absolute;
+    margin-top: -16px;
+
+}
+.location{
+    margin-left: 996px;
+    position: absolute;
+    margin-top: -16px;
+
+}
+.loc{
+    margin-left: 981px;
+    position: absolute;
+    margin-top: -16px;
+    color: rgb(211, 23, 23);
+    size: 6px;
+
+}
+.order{
+    margin-left: 1166px;
+    position: absolute;
+    margin-top: -16px;
+    background-color: #ffbc0d;
+    border: none;
+    border-radius: 4px;
+    width: 134px;
+    height: 40px;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+.menu{
+    font-size: 15px;
+    line-height: 24px;
+    background-color: transparent;
+    border: none;
+    color: #292929;
+    margin-top: 33px;
+    margin-left: 344px;
+    cursor: pointer;
+
+}
+.download{
+    margin-left: 24px;
+    position: absolute;
+    margin-top: 33px;
+    font-size: 17px;
+    font-style: normal;
+}
+.reward{
+    margin-left: 155px;
+
+
+}
+.deals{
+    margin-left: 19px;
+}
+.locate{
+    margin-left: 25px;
+}
+.gift{
+    margin-left: 27px;
+}
+.food{
+    margin-left: 26px;
+}
+.frstmage{
+    margin: 20px;
+    width: 48%;
+    height: 48%;
+    margin-left: 202px;
+    margin-top: 100px;
+
+}
+.text1{
+    position: absolute;
+    margin-top: -349px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px
+    
+    
+    
+}
+.para1{
+    position: absolute;
+    margin-top: -246px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+
+}
+.para11{
+    position: absolute;
+    margin-top: -102px;
+    margin-left: 971px;
+    font-size: 11px ;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.button1{
+    background-color: #ffbc0d;
+    height: 49px;
+    width: 177px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    text-decoration: none;
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+.scndmage{
+    margin: 20px;
+    width: 48%;
+    height: 48%;
+    margin-left: 202px;
+    margin-top: 126px;
+}
+.text2{
+    position: absolute;
+    margin-top: -349px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px
+    
+
+}
+.para2{
+    position: absolute;
+    margin-top: -246px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+
+}
+.para22{
+    position: absolute;
+    margin-top: -114px;
+    margin-left: 971px;
+    font-size: 11px ;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+
+}
+.button2{
+    background-color: #ffbc0d;
+    height: 49px;
+    width: 204px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 414px ;
+    margin-left: 20px;
+    cursor: pointer;
+
+
+}
+.thrdmage{
+     margin: 20px;
+    width: 48%;
+    height: 48%;
+    margin-left: 202px;
+    margin-top: 153px;
+}
+.text3{
+    position: absolute;
+    margin-top: -349px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px
+
+}
+.para3{
+    position: absolute;
+    margin-top: -246px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.para33{
+    position: absolute;
+    margin-top: -114px;
+    margin-left: 971px;
+    font-size: 10px ;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.button3{
+    background-color: #ffbc0d;
+    height: 49px;
+    width: 204px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 458px ;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.frthmage{
+    margin: 20px;
+    width: 48%;
+    height: 48%;
+    margin-left: 202px;
+    margin-top: 153px;
+}
+.text4{
+    position: absolute;
+    margin-top: -349px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px
+}
+.para4{
+    position: absolute;
+    margin-top: -246px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.para44{
+    position: absolute;
+    margin-top: -114px;
+    margin-left: 971px;
+    font-size: 9px ;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.button4{
+    background-color: #ffbc0d;
+    height: 49px;
+    width: 204px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    font-size:15px;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 458px ;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.fifthmage{
+    margin: 20px;
+    width: 48%;
+    height: 48%;
+    margin-left: 202px;
+    margin-top: 153px;
+}
+.text5{
+    position: absolute;
+    margin-top: -349px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 40px
+}
+.para5{
+    position: absolute;
+    margin-top: -253px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+
+.button5{
+    background-color: #ffbc0d;
+    height: 49px;
+    width: 274px;
+    border-radius: 4px;
+    font-size: 14px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 558px ;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.sixmage{
+    margin: 20px;
+    width: 48%;
+    height: 48%;
+    margin-left: 202px;
+    margin-top: 153px;
+}
+.text6{
+    position: absolute;
+    margin-top: -327px;
+    margin-left: 971px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 40px
+}
+.para6{
+    position: absolute;
+    margin-top: -246px;
+    margin-left: 971px;
+    font-size: 18px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.para66{
+    position: absolute;
+    margin-top: -141px;
+    margin-left: 971px;
+    font-size: 10px ;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #292929;
+    letter-spacing: -.15px;
+}
+.button6{
+    background-color: #ffbc0d;
+    height: 49px;
+    width: 204px;
+    border-radius: 4px;
+    text-align: center;
+    border: none;
+    color: #292929;
+    text-decoration: none;
+    position: absolute;
+    margin-top: 412px ;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.aboutus{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 230px;
+    font-size: 16px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+    word-spacing: 1px;
+    cursor: pointer;
+
+    
+
+}
+.services{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 532px;
+    font-size: 16px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+    word-spacing: 1px;
+    cursor: pointer;
+
+}
+.community{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 872px;
+    font-size: 16px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+    word-spacing: 1px;
+    cursor: pointer;
+
+
+}
+.contactus{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 1200px;
+    font-size: 16px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 24px;
+    color: #292929;
+    letter-spacing: -.15px;
+    word-spacing: 1px;
+    cursor: pointer;
+
+
+}
+.facebook{
+   
+    margin-left: 240px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+
+ 
+}
+.twitter{
+    margin-left: 300px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+
+    
+}
+.youtube{
+    margin-left: 360px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+
+}
+.instagram{
+    margin-left: 420px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+
+}
+.tumbler{
+    margin-left: 480px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+
+
+}
+.spotify{
+    margin-left: 540px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+
+}
+.applestore{
+    margin-left: 1047px;
+    margin-top:443px ;
+    position: absolute;
+    cursor: pointer;
+}
+.playstore{
+    margin-left: 1205px;
+    margin-top:443px ;
+    position: absolute;
+}
+
+.privacy{
+    margin-left: 235px;
+    margin-top:541px ;
+    position: absolute;
+}
+.notice{
+    margin-left: 397px;
+    margin-top:541px ;
+    position: absolute;
+}
+.terms{
+    margin-left: 611px;
+    margin-top:541px ;
+    position: absolute;
+}
+.accessibility{
+    margin-left: 786px;
+    margin-top:541px ;
+    position: absolute;
+}
+.sell{
+    margin-left: 235px;
+    margin-top:583px ;
+    position: absolute;
+}
+.lastlogo{
+    
+    margin-left: 942px;
+    margin-top:526px ;
+    position: absolute;
+    width: 52px;
+
+}
+.lastpara{
+    margin-top:541px ;
+    position: absolute;
+    margin-left: 1097px;
+
+}
+.lastparaa{
+    margin-top:559px ;
+    position: absolute;
+    margin-left: 1286px;
+    
+}
+.line{
+    margin-top: 512px;
+    position: relative; 
+    width: 1200px;
+    margin-left: 179px;
+}
+.container{
+    height:510vh ;
+}
